@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+-You can create a new react app  using the following command npx create-react-app [your app name] then cd into the folder and run npm start or yarn start and you are good to go.
 ## Available Scripts
 
 In the project directory, you can run:
