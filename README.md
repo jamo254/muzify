@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
--You can create a new react app  using the following command npx create-react-app [your app name] then cd into the folder and run npm start or yarn start and you are good to go.
+- You can create a new react app  using the following command npx create-react-app [your app name] then cd into the folder and run npm start or yarn start and you are good to go.
+-  You can also fork this repo and run the project local.
+- **You got to install firebase tool in order to run this project, please view firebase documentation.
+
+## Project screenshots
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
