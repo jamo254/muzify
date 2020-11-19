@@ -6,7 +6,7 @@
 
 ## Project screenshots
 
-
+![Muzify screen shot](https://user-images.githubusercontent.com/70902444/99704293-39a6bb80-2aa9-11eb-9ebd-489e52158bee.png)
 
 
 ## Available Scripts
